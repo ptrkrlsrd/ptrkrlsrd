@@ -1,5 +1,7 @@
-### fmt.Println("Hello World!")
-#### https://ptrkrlsrd.netlify.app/](`curl https://ptrkrlsrd.netlify.app/`)
+### fmt.Println("Hello World!") 
+
+
+https://ptrkrlsrd.netlify.app/
 
 <!--
 **ptrkrlsrd/ptrkrlsrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
