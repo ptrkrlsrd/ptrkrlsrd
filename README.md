@@ -2,7 +2,7 @@
 
 https://ptrkrlsrd.netlify.app/
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact)
 [![ptrkrlsrd's Github stats](https://github-readme-stats.vercel.app/api?username=ptrkrlsrd)](https://github.com/ptrkrlsrd/github-readme-stats)
 
 <!--- 🔭 I’m currently working on ...
