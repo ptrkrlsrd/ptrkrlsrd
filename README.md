@@ -15,4 +15,5 @@ https://ptrkrlsrd.netlify.app/
 ⚡ Fun fact: ...
 -->
 
+- ⚡ I prefer Go and C# over most languages.
 - 🌱 I’m currently learning: Rust, Haskell and Terraform
