@@ -2,9 +2,8 @@
 
 ---
 [![ptrkrlsrd's Github stats](https://github-readme-stats.vercel.app/api?username=ptrkrlsrd)](https://github.com/ptrkrlsrd/github-readme-stats)
----
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix&exclude_repo=zmuck)
-
+---
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
