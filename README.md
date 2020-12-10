@@ -18,3 +18,6 @@
 - ⚡ I prefer Go and C# over most languages.
 - 🌱 I’m currently learning: Rust, Haskell and Terraform
 - 💬 This is my website: https://ptrkrlsrd.netlify.app/
+
+
+![K,bye](https://svg-banners.vercel.app/api?type=rainbow&text1=k,bye%F0%9F%8C%88&width=800&height=400)
