@@ -15,9 +15,6 @@
 ⚡ Fun fact: ...
 -->
 
-- ⚡ I prefer Go and C# over most languages.
-- 🌱 I’m currently learning: Rust, Haskell and Terraform
+- ⚡ For backend I prefer Go and C# over most languages. As for frontend I stick with Typescript.
+- 🌱 I’m currently learning: Rust, Haskell and Scala.
 - 💬 This is my website: https://ptrkrlsrd.netlify.app/
-
-
-![K,bye](https://svg-banners.vercel.app/api?type=rainbow&text1=k,bye%F0%9F%8C%88&width=800&height=400)
