@@ -17,4 +17,4 @@
 
 - ⚡ For backend I prefer Go and C# over most languages. As for frontend I stick with Typescript.
 - 🌱 I’m currently learning: Rust, Haskell and Machine/Deep Learning.
-- 💬 This is my website: https://ptrkrlsrd.netlify.app/
+- 💬 Feel free to check my website: https://ptrkrlsrd.netlify.app/
