@@ -17,6 +17,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+---
 [![ptrkrlsrd's Github stats](https://github-readme-stats.vercel.app/api?username=ptrkrlsrd)](https://github.com/ptrkrlsrd/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script&exclude_repo=zmuck)
 ---
