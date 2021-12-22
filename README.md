@@ -21,11 +21,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
----
+
 <img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd" width="40%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script&exclude_repo=zmuck" width="40%" />
 
----
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
