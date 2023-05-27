@@ -39,4 +39,4 @@
 
 - ⚡ For backend I prefer Go and C# over most languages. As for frontend I stick with Vue/React + Typescript.
 - 🌱 Contributing to gRPC
-- 🤔 I’m currently learning: Haskell and Machine/Deep Learning
+- 🤔 I’m currently learning: Haskell, Flutter and Machine/Deep Learning
