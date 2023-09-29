@@ -34,6 +34,6 @@
 ⚡ Fun fact: ...
 -->
 
-- ⚡ For backend I prefer Go and C# over most languages. As for frontend I stick with Vue + Typescript.
+- ⚡ For backend I prefer Go, Rust and C# over most languages. Strongly dislike OOP - love FP. As for frontend I stick with Vue + Typescript.
 - 🌱 Contributing to gRPC
 - 🤔 I’m currently learning: Haskell, Flutter and Machine/Deep Learning
