@@ -21,7 +21,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script&exclude_repo=zmuck" />
-<img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd&show_icons=true&theme=transparent" width="40%"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd&show_icons=true&theme=transparent" width="40%"/>-->
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
