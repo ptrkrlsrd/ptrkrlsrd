@@ -37,4 +37,4 @@
 - ⚡ For backend I prefer Go, Rust and partially C# over most languages. As for frontend I stick with Vue + Typescript.
 - 💬 Strongly dislike OOP - love FP. Constantly fighting to keep codebases well written, readable, testable and understandable.
 - 🤔 I’m currently learning: Haskell, Flutter and Machine/Deep Learning
-- 👨‍💻📝 I'm using Rider + Neovim for writing most of my code
+- 👨‍💻📝 I'm using Rider + Vim/Neovim for writing most of my code
