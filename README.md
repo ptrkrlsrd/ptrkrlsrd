@@ -41,4 +41,5 @@
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
 
 ## Projects
-* [Wine Graph](https://www.finn.vin/) A wine search engine using Neo4J, QDrant, GoLang, Python and NextJS
+* [Wine Graph](https://www.finn.vin/) A wine search engine
+** Techstack: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
