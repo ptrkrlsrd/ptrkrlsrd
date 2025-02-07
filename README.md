@@ -42,4 +42,4 @@
 
 ## Projects
 * [Wine Graph](https://www.finn.vin/) A wine search engine
-** Techstack: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
+  * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
