@@ -39,3 +39,6 @@
 - 🤔 I’m currently learning: Flutter and Machine/Deep Learning
 - 📝 I use Vim/Neovim for writing most of my code
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
+
+## Projects
+* ![Wine Graph](https://www.finn.vin/) A wine search engine using Neo4J, QDrant, GoLang, Python and NextJS
