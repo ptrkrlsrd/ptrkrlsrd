@@ -19,6 +19,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script,jupyter+notebook&exclude_repo=zmuck" />
 <!--<img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd&show_icons=true&theme=transparent" width="40%"/>-->
