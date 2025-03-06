@@ -41,6 +41,6 @@
 - 📝 I use Vim/Neovim for writing most of my code
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
 
-## Projects
+## Publicly accessible projects
 * [Wine Graph](https://www.finn.vin/) A wine search engine
   * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
