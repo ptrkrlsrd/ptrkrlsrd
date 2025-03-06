@@ -44,3 +44,5 @@
 ## Publicly accessible projects
 * [Wine Graph](https://www.finn.vin/) A wine search engine
   * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
+* [Dota Single Draft](dota-single-draft.vercel.app) An utterly stupid app for picking heroes in Dota (in case you play Turbo for example)
+ * Tech: Svelte, TypeScript and Vercel  
