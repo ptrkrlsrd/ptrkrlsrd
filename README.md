@@ -43,6 +43,7 @@
 
 ## Publicly accessible projects
 * [Wine Graph](https://www.finn.vin/) A wine search engine
-  * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS. 
+  * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS.
+* [Regexify](https://regexify.netlify.app/) A tool to generate regexs using WASM + Rust
 * [Dota Single Draft](https://dota-single-draft.vercel.app) An utterly stupid app for picking heroes in Dota (in case you play Turbo for example)
   * Tech: Svelte, TypeScript and Vercel  
