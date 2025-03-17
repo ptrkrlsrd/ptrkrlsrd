@@ -24,6 +24,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
+<!--https://github.com/Ileriayo/markdown-badges-->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script,jupyter+notebook&exclude_repo=zmuck" />
 <!--<img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd&show_icons=true&theme=transparent" width="40%"/>-->
 
