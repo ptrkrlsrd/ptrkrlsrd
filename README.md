@@ -42,7 +42,7 @@
 
 - ⚡ For backend I prefer Go, Rust and C# over most languages. I prefer Postgres (and its siblings) for RDB, as it is the best choice. As for frontend I stick with Typescript and React/Remix/NextJS or occasionally Vue/Svelte.
 - 💬  I prefer functional programming over object oriented programming. Constantly fighting to keep codebases well written, readable, testable and understandable.
-- 🤔 I’m currently learning: Flutter and Machine/Deep Learning
+- 🤔 I’m currently learning: Elixir and Machine/Deep Learning
 - 📝 I use Vim/Neovim for writing most of my code
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
 
