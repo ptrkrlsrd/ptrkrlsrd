@@ -29,7 +29,7 @@
   * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS.
 * [Regexify](https://regexify.netlify.app/) A tool to generate regexs using WASM + Rust
 
-
+---
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
