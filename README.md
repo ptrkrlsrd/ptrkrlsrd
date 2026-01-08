@@ -26,8 +26,8 @@
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrkrlsrd&layout=compact&show_icons=true&hide=nix,vim+script,jupyter+notebook&exclude_repo=zmuck" />
-<!--<img src="https://github-readme-stats.vercel.app/api?username=ptrkrlsrd&show_icons=true&theme=transparent" width="40%"/>-->
+[![ptrkrlsrd's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ptrkrlsrd)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ptrkrlsrd)](https://github.com/Pranesh-2005/github-readme-stats)
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -47,6 +47,6 @@
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
 
 ## Publicly accessible projects
-* [Wine Graph](https://www.finn.vin/) A wine search engine
+* Finn.vin A wine search engine
   * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS.
 * [Regexify](https://regexify.netlify.app/) A tool to generate regexs using WASM + Rust
