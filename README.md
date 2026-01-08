@@ -23,12 +23,12 @@
 - 🤔 I’m currently learning: Elixir and Machine/Deep Learning
 - 📝 I use Vim/Neovim for writing most of my code
 - 📫 Prefer gRPC and/or message queues over REST for internal communication, but always like to provide REST endpoints for external usage
-
+<!---
 ## Publicly accessible projects
 * Finn.vin A wine search engine
   * Tech: Neo4J, SQLite, QDrant, GoLang, Python, Docker, Pulumi, Vercel and NextJS.
 * [Regexify](https://regexify.netlify.app/) A tool to generate regexs using WASM + Rust
-
+-->
 ---
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
