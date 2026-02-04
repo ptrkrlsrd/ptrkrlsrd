@@ -16,7 +16,7 @@
 - 💬 Feel free to check my website: https://ptrkrlsrd.netlify.app/
 - 😄 Pronouns: ...
 ⚡ Fun fact: ...
--->
+
 
 - ⚡ For backend I prefer Go, Rust and C# over most languages. I prefer Postgres (and its siblings) for RDB, as it is the best choice. As for frontend I stick with Typescript and React/Remix/NextJS or occasionally Vue/Svelte.
 - 💬  I prefer functional programming over object oriented programming. Constantly fighting to keep codebases well written, readable, testable and understandable.
