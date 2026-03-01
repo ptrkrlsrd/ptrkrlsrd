@@ -1,5 +1,6 @@
+<!---
 ![Header](https://svg-banners.vercel.app/api?type=typeWriter&text1=fmt.Println(%22rip,%20Github%22)%20👨‍💻&width=800&height=400)
----
+--->
 
 
 <!--https://github.com/Ileriayo/markdown-badges-->
