@@ -3,10 +3,7 @@
 --->
 
 
-<!--https://github.com/Ileriayo/markdown-badges-->
 
-[![ptrkrlsrd's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ptrkrlsrd)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ptrkrlsrd&exclude_repo=voice-cloner,skyscanner,zmuck&hide=vimscript,vim,jupyter&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -54,3 +51,6 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<!--https://github.com/Ileriayo/markdown-badges-->
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ptrkrlsrd&exclude_repo=voice-cloner,skyscanner,zmuck&hide=vimscript,vim,jupyter&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
