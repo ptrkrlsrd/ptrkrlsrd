@@ -1,0 +1,401 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="1500" height="700" fill="#ffffff"/>
+<text x="750.0" y="42" text-anchor="middle" fill="#1f2328" font-size="24" font-weight="700">GitHub Average Uptime by Month</text>
+<text x="750.0" y="68" text-anchor="middle" fill="#57606a" font-size="13">Apr 2016 – Mar 2026 · averaged across 8 services (Codespaces and Copilot excluded — launched partway through dataset)</text>
+<line x1="90" y1="610.0" x2="1460" y2="610.0" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="614.0" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">99.500%</text>
+<line x1="90" y1="510.0" x2="1460" y2="510.0" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="514.0" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">99.600%</text>
+<line x1="90" y1="410.0" x2="1460" y2="410.0" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="414.0" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">99.700%</text>
+<line x1="90" y1="310.0" x2="1460" y2="310.0" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="314.0" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">99.800%</text>
+<line x1="90" y1="209.99999999999997" x2="1460" y2="209.99999999999997" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="213.99999999999997" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">99.900%</text>
+<line x1="90" y1="110.0" x2="1460" y2="110.0" stroke="#e6e8eb" stroke-width="1"/>
+<text x="80" y="114.0" text-anchor="end" fill="#57606a" font-size="11" font-family="ui-monospace, SF Mono, Menlo, monospace">100.000%</text>
+<line x1="90" y1="110" x2="90" y2="610" stroke="#8c959f" stroke-width="1"/>
+<line x1="90" y1="610" x2="1460" y2="610" stroke="#8c959f" stroke-width="1"/>
+<line x1="90.0" y1="110" x2="90.0" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="90.0" y1="610" x2="90.0" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="90.0" y="618" transform="rotate(45 90.0 618)" fill="#57606a" font-size="11">Apr 2016</text>
+<line x1="124.53781512605042" y1="110" x2="124.53781512605042" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="124.53781512605042" y1="610" x2="124.53781512605042" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="124.53781512605042" y="618" transform="rotate(45 124.53781512605042 618)" fill="#57606a" font-size="11">Jul 2016</text>
+<line x1="159.07563025210084" y1="110" x2="159.07563025210084" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="159.07563025210084" y1="610" x2="159.07563025210084" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="159.07563025210084" y="618" transform="rotate(45 159.07563025210084 618)" fill="#57606a" font-size="11">Oct 2016</text>
+<line x1="193.61344537815125" y1="110" x2="193.61344537815125" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="193.61344537815125" y1="110" x2="193.61344537815125" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="193.61344537815125" y1="610" x2="193.61344537815125" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="193.61344537815125" y="618" transform="rotate(45 193.61344537815125 618)" fill="#57606a" font-size="11">Jan 2017</text>
+<line x1="228.15126050420167" y1="110" x2="228.15126050420167" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="228.15126050420167" y1="610" x2="228.15126050420167" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="228.15126050420167" y="618" transform="rotate(45 228.15126050420167 618)" fill="#57606a" font-size="11">Apr 2017</text>
+<line x1="262.6890756302521" y1="110" x2="262.6890756302521" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="262.6890756302521" y1="610" x2="262.6890756302521" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="262.6890756302521" y="618" transform="rotate(45 262.6890756302521 618)" fill="#57606a" font-size="11">Jul 2017</text>
+<line x1="297.2268907563025" y1="110" x2="297.2268907563025" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="297.2268907563025" y1="610" x2="297.2268907563025" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="297.2268907563025" y="618" transform="rotate(45 297.2268907563025 618)" fill="#57606a" font-size="11">Oct 2017</text>
+<line x1="331.7647058823529" y1="110" x2="331.7647058823529" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="331.7647058823529" y1="110" x2="331.7647058823529" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="331.7647058823529" y1="610" x2="331.7647058823529" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="331.7647058823529" y="618" transform="rotate(45 331.7647058823529 618)" fill="#57606a" font-size="11">Jan 2018</text>
+<line x1="366.30252100840335" y1="110" x2="366.30252100840335" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="366.30252100840335" y1="610" x2="366.30252100840335" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="366.30252100840335" y="618" transform="rotate(45 366.30252100840335 618)" fill="#57606a" font-size="11">Apr 2018</text>
+<line x1="400.84033613445376" y1="110" x2="400.84033613445376" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="400.84033613445376" y1="610" x2="400.84033613445376" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="400.84033613445376" y="618" transform="rotate(45 400.84033613445376 618)" fill="#57606a" font-size="11">Jul 2018</text>
+<line x1="435.3781512605042" y1="110" x2="435.3781512605042" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="435.3781512605042" y1="610" x2="435.3781512605042" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="435.3781512605042" y="618" transform="rotate(45 435.3781512605042 618)" fill="#57606a" font-size="11">Oct 2018</text>
+<line x1="469.91596638655466" y1="110" x2="469.91596638655466" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="469.91596638655466" y1="110" x2="469.91596638655466" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="469.91596638655466" y1="610" x2="469.91596638655466" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="469.91596638655466" y="618" transform="rotate(45 469.91596638655466 618)" fill="#57606a" font-size="11">Jan 2019</text>
+<line x1="504.453781512605" y1="110" x2="504.453781512605" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="504.453781512605" y1="610" x2="504.453781512605" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="504.453781512605" y="618" transform="rotate(45 504.453781512605 618)" fill="#57606a" font-size="11">Apr 2019</text>
+<line x1="538.9915966386554" y1="110" x2="538.9915966386554" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="538.9915966386554" y1="610" x2="538.9915966386554" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="538.9915966386554" y="618" transform="rotate(45 538.9915966386554 618)" fill="#57606a" font-size="11">Jul 2019</text>
+<line x1="573.5294117647059" y1="110" x2="573.5294117647059" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="573.5294117647059" y1="610" x2="573.5294117647059" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="573.5294117647059" y="618" transform="rotate(45 573.5294117647059 618)" fill="#57606a" font-size="11">Oct 2019</text>
+<line x1="608.0672268907563" y1="110" x2="608.0672268907563" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="608.0672268907563" y1="110" x2="608.0672268907563" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="608.0672268907563" y1="610" x2="608.0672268907563" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="608.0672268907563" y="618" transform="rotate(45 608.0672268907563 618)" fill="#57606a" font-size="11">Jan 2020</text>
+<line x1="642.6050420168067" y1="110" x2="642.6050420168067" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="642.6050420168067" y1="610" x2="642.6050420168067" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="642.6050420168067" y="618" transform="rotate(45 642.6050420168067 618)" fill="#57606a" font-size="11">Apr 2020</text>
+<line x1="677.1428571428571" y1="110" x2="677.1428571428571" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="677.1428571428571" y1="610" x2="677.1428571428571" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="677.1428571428571" y="618" transform="rotate(45 677.1428571428571 618)" fill="#57606a" font-size="11">Jul 2020</text>
+<line x1="711.6806722689075" y1="110" x2="711.6806722689075" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="711.6806722689075" y1="610" x2="711.6806722689075" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="711.6806722689075" y="618" transform="rotate(45 711.6806722689075 618)" fill="#57606a" font-size="11">Oct 2020</text>
+<line x1="746.2184873949581" y1="110" x2="746.2184873949581" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="746.2184873949581" y1="110" x2="746.2184873949581" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="746.2184873949581" y1="610" x2="746.2184873949581" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="746.2184873949581" y="618" transform="rotate(45 746.2184873949581 618)" fill="#57606a" font-size="11">Jan 2021</text>
+<line x1="780.7563025210084" y1="110" x2="780.7563025210084" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="780.7563025210084" y1="610" x2="780.7563025210084" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="780.7563025210084" y="618" transform="rotate(45 780.7563025210084 618)" fill="#57606a" font-size="11">Apr 2021</text>
+<line x1="815.2941176470588" y1="110" x2="815.2941176470588" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="815.2941176470588" y1="610" x2="815.2941176470588" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="815.2941176470588" y="618" transform="rotate(45 815.2941176470588 618)" fill="#57606a" font-size="11">Jul 2021</text>
+<line x1="849.8319327731093" y1="110" x2="849.8319327731093" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="849.8319327731093" y1="610" x2="849.8319327731093" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="849.8319327731093" y="618" transform="rotate(45 849.8319327731093 618)" fill="#57606a" font-size="11">Oct 2021</text>
+<line x1="884.3697478991597" y1="110" x2="884.3697478991597" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="884.3697478991597" y1="110" x2="884.3697478991597" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="884.3697478991597" y1="610" x2="884.3697478991597" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="884.3697478991597" y="618" transform="rotate(45 884.3697478991597 618)" fill="#57606a" font-size="11">Jan 2022</text>
+<line x1="918.90756302521" y1="110" x2="918.90756302521" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="918.90756302521" y1="610" x2="918.90756302521" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="918.90756302521" y="618" transform="rotate(45 918.90756302521 618)" fill="#57606a" font-size="11">Apr 2022</text>
+<line x1="953.4453781512605" y1="110" x2="953.4453781512605" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="953.4453781512605" y1="610" x2="953.4453781512605" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="953.4453781512605" y="618" transform="rotate(45 953.4453781512605 618)" fill="#57606a" font-size="11">Jul 2022</text>
+<line x1="987.9831932773109" y1="110" x2="987.9831932773109" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="987.9831932773109" y1="610" x2="987.9831932773109" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="987.9831932773109" y="618" transform="rotate(45 987.9831932773109 618)" fill="#57606a" font-size="11">Oct 2022</text>
+<line x1="1022.5210084033614" y1="110" x2="1022.5210084033614" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1022.5210084033614" y1="110" x2="1022.5210084033614" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="1022.5210084033614" y1="610" x2="1022.5210084033614" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1022.5210084033614" y="618" transform="rotate(45 1022.5210084033614 618)" fill="#57606a" font-size="11">Jan 2023</text>
+<line x1="1057.0588235294117" y1="110" x2="1057.0588235294117" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1057.0588235294117" y1="610" x2="1057.0588235294117" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1057.0588235294117" y="618" transform="rotate(45 1057.0588235294117 618)" fill="#57606a" font-size="11">Apr 2023</text>
+<line x1="1091.5966386554621" y1="110" x2="1091.5966386554621" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1091.5966386554621" y1="610" x2="1091.5966386554621" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1091.5966386554621" y="618" transform="rotate(45 1091.5966386554621 618)" fill="#57606a" font-size="11">Jul 2023</text>
+<line x1="1126.1344537815125" y1="110" x2="1126.1344537815125" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1126.1344537815125" y1="610" x2="1126.1344537815125" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1126.1344537815125" y="618" transform="rotate(45 1126.1344537815125 618)" fill="#57606a" font-size="11">Oct 2023</text>
+<line x1="1160.672268907563" y1="110" x2="1160.672268907563" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1160.672268907563" y1="110" x2="1160.672268907563" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="1160.672268907563" y1="610" x2="1160.672268907563" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1160.672268907563" y="618" transform="rotate(45 1160.672268907563 618)" fill="#57606a" font-size="11">Jan 2024</text>
+<line x1="1195.2100840336134" y1="110" x2="1195.2100840336134" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1195.2100840336134" y1="610" x2="1195.2100840336134" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1195.2100840336134" y="618" transform="rotate(45 1195.2100840336134 618)" fill="#57606a" font-size="11">Apr 2024</text>
+<line x1="1229.747899159664" y1="110" x2="1229.747899159664" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1229.747899159664" y1="610" x2="1229.747899159664" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1229.747899159664" y="618" transform="rotate(45 1229.747899159664 618)" fill="#57606a" font-size="11">Jul 2024</text>
+<line x1="1264.2857142857142" y1="110" x2="1264.2857142857142" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1264.2857142857142" y1="610" x2="1264.2857142857142" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1264.2857142857142" y="618" transform="rotate(45 1264.2857142857142 618)" fill="#57606a" font-size="11">Oct 2024</text>
+<line x1="1298.8235294117646" y1="110" x2="1298.8235294117646" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1298.8235294117646" y1="110" x2="1298.8235294117646" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="1298.8235294117646" y1="610" x2="1298.8235294117646" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1298.8235294117646" y="618" transform="rotate(45 1298.8235294117646 618)" fill="#57606a" font-size="11">Jan 2025</text>
+<line x1="1333.361344537815" y1="110" x2="1333.361344537815" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1333.361344537815" y1="610" x2="1333.361344537815" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1333.361344537815" y="618" transform="rotate(45 1333.361344537815 618)" fill="#57606a" font-size="11">Apr 2025</text>
+<line x1="1367.8991596638655" y1="110" x2="1367.8991596638655" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1367.8991596638655" y1="610" x2="1367.8991596638655" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1367.8991596638655" y="618" transform="rotate(45 1367.8991596638655 618)" fill="#57606a" font-size="11">Jul 2025</text>
+<line x1="1402.4369747899161" y1="110" x2="1402.4369747899161" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1402.4369747899161" y1="610" x2="1402.4369747899161" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1402.4369747899161" y="618" transform="rotate(45 1402.4369747899161 618)" fill="#57606a" font-size="11">Oct 2025</text>
+<line x1="1436.9747899159663" y1="110" x2="1436.9747899159663" y2="610" stroke="#f1f3f5" stroke-width="1"/>
+<line x1="1436.9747899159663" y1="110" x2="1436.9747899159663" y2="610" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="1436.9747899159663" y1="610" x2="1436.9747899159663" y2="614" stroke="#8c959f" stroke-width="1"/>
+<text x="1436.9747899159663" y="618" transform="rotate(45 1436.9747899159663 618)" fill="#57606a" font-size="11">Jan 2026</text>
+<line x1="435.3781512605042" y1="110" x2="435.3781512605042" y2="610" stroke="#1f2328" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.85"/>
+<text x="431.3781512605042" y="385.0" transform="rotate(-90 431.3781512605042 385.0)" fill="#1f2328" font-size="11" font-weight="600" text-anchor="middle">Microsoft Acquires GitHub</text>
+<line x1="90.0" y1="110.0" x2="101.5126050420168" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="101.5126050420168" y1="110.0" x2="113.02521008403362" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="113.02521008403362" y1="110.0" x2="124.53781512605042" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="124.53781512605042" y1="110.0" x2="136.05042016806723" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="136.05042016806723" y1="110.0" x2="147.56302521008405" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="147.56302521008405" y1="110.0" x2="159.07563025210084" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="159.07563025210084" y1="110.0" x2="170.58823529411765" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="170.58823529411765" y1="110.0" x2="182.10084033613447" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="182.10084033613447" y1="110.0" x2="193.61344537815125" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="193.61344537815125" y1="110.0" x2="205.12605042016807" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="205.12605042016807" y1="110.0" x2="216.6386554621849" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="216.6386554621849" y1="110.0" x2="228.15126050420167" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="228.15126050420167" y1="110.0" x2="239.6638655462185" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="239.6638655462185" y1="110.0" x2="251.1764705882353" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="251.1764705882353" y1="110.0" x2="262.6890756302521" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="262.6890756302521" y1="110.0" x2="274.20168067226894" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="274.20168067226894" y1="110.0" x2="285.71428571428567" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="285.71428571428567" y1="110.0" x2="297.2268907563025" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="297.2268907563025" y1="110.0" x2="308.73949579831935" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="308.73949579831935" y1="110.0" x2="320.25210084033614" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="320.25210084033614" y1="110.0" x2="331.7647058823529" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="331.7647058823529" y1="110.0" x2="343.2773109243698" y2="110.09300595238403" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="343.2773109243698" y1="110.09300595238403" x2="354.78991596638656" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="354.78991596638656" y1="110.0" x2="366.30252100840335" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="366.30252100840335" y1="110.0" x2="377.8151260504202" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="377.8151260504202" y1="110.0" x2="389.327731092437" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="389.327731092437" y1="110.0" x2="400.84033613445376" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="400.84033613445376" y1="110.0" x2="412.3529411764706" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="412.3529411764706" y1="110.0" x2="423.8655462184874" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="423.8655462184874" y1="110.0" x2="435.3781512605042" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="435.3781512605042" y1="110.0" x2="446.890756302521" y2="116.30787037037007" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="446.890756302521" y1="116.30787037037007" x2="458.4033613445378" y2="110.82138590202786" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="458.4033613445378" y1="110.82138590202786" x2="469.91596638655466" y2="113.46755525686416" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="469.91596638655466" y1="113.46755525686416" x2="481.4285714285714" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="481.4285714285714" y1="110.0" x2="492.94117647058823" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="492.94117647058823" y1="110.0" x2="504.453781512605" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="504.453781512605" y1="110.0" x2="515.9663865546219" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="515.9663865546219" y1="110.0" x2="527.4789915966387" y2="114.85628858024612" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="527.4789915966387" y1="114.85628858024612" x2="538.9915966386554" y2="120.58934438470382" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="538.9915966386554" y1="120.58934438470382" x2="550.5042016806723" y2="131.2346923536444" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="550.5042016806723" y1="131.2346923536444" x2="562.0168067226891" y2="110.0" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="562.0168067226891" y1="110.0" x2="573.5294117647059" y2="110.0" stroke="#2a9d4a" stroke-width="2" stroke-linecap="round"/>
+<line x1="573.5294117647059" y1="110.0" x2="585.0420168067227" y2="138.29861111111055" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="585.0420168067227" y1="138.29861111111055" x2="596.5546218487395" y2="171.82935707884636" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="596.5546218487395" y1="171.82935707884636" x2="608.0672268907563" y2="115.76136872759703" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="608.0672268907563" y1="115.76136872759703" x2="619.5798319327731" y2="315.348020434226" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="619.5798319327731" y1="315.348020434226" x2="631.0924369747898" y2="148.63967293906694" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="631.0924369747898" y1="148.63967293906694" x2="642.6050420168067" y2="493.44087577160093" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="642.6050420168067" y1="493.44087577160093" x2="654.1176470588235" y2="413.40875149342776" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="654.1176470588235" y1="413.40875149342776" x2="665.6302521008404" y2="321.1795910493817" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="665.6302521008404" y1="321.1795910493817" x2="677.1428571428571" y2="306.8073290023907" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="677.1428571428571" y1="306.8073290023907" x2="688.655462184874" y2="163.39521729390555" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="688.655462184874" y1="163.39521729390555" x2="700.1680672268908" y2="163.13126929011864" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="700.1680672268908" y1="163.13126929011864" x2="711.6806722689075" y2="245.13664874551512" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="711.6806722689075" y1="245.13664874551512" x2="723.1932773109244" y2="133.2532793209894" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="723.1932773109244" y1="133.2532793209894" x2="734.7058823529412" y2="180.49451164874426" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="734.7058823529412" y1="180.49451164874426" x2="746.2184873949581" y2="227.03442353644388" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="746.2184873949581" y1="227.03442353644388" x2="757.7310924369748" y2="192.9055059523797" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="757.7310924369748" y1="192.9055059523797" x2="769.2436974789916" y2="287.6508363201866" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="769.2436974789916" y1="287.6508363201866" x2="780.7563025210084" y2="190.7571373456772" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="780.7563025210084" y1="190.7571373456772" x2="792.2689075630251" y2="420.819425776587" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="792.2689075630251" y1="420.819425776587" x2="803.781512605042" y2="208.0844907407351" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="803.781512605042" y1="208.0844907407351" x2="815.2941176470588" y2="122.42159498208161" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="815.2941176470588" y1="122.42159498208161" x2="826.8067226890756" y2="240.3170736260516" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="826.8067226890756" y1="240.3170736260516" x2="838.3193277310924" y2="137.89062500000438" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="838.3193277310924" y1="137.89062500000438" x2="849.8319327731093" y2="175.65580197132044" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="849.8319327731093" y1="175.65580197132044" x2="861.344537815126" y2="403.03192515431874" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="861.344537815126" y1="403.03192515431874" x2="872.8571428571428" y2="146.61374327956761" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="872.8571428571428" y1="146.61374327956761" x2="884.3697478991597" y2="193.57694892473506" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="884.3697478991597" y1="193.57694892473506" x2="895.8823529411765" y2="172.08560681216773" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="895.8823529411765" y1="172.08560681216773" x2="907.3949579831933" y2="532.4910394265198" stroke="#d9534f" stroke-width="2" stroke-linecap="round"/>
+<line x1="907.3949579831933" y1="532.4910394265198" x2="918.90756302521" y2="179.28047839506172" stroke="#d9534f" stroke-width="2" stroke-linecap="round"/>
+<line x1="918.90756302521" y1="179.28047839506172" x2="930.420168067227" y2="234.82312201314005" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="930.420168067227" y1="234.82312201314005" x2="941.9327731092437" y2="211.2336033950566" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="941.9327731092437" y1="211.2336033950566" x2="953.4453781512605" y2="120.54967517921668" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="953.4453781512605" y1="120.54967517921668" x2="964.9579831932773" y2="172.82202060932102" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="964.9579831932773" y1="172.82202060932102" x2="976.4705882352941" y2="200.52517361111117" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="976.4705882352941" y1="200.52517361111117" x2="987.9831932773109" y2="216.991114097965" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="987.9831932773109" y1="216.991114097965" x2="999.4957983193277" y2="176.7558834876569" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="999.4957983193277" y1="176.7558834876569" x2="1011.0084033613446" y2="150.46398969533843" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1011.0084033613446" y1="150.46398969533843" x2="1022.5210084033614" y2="252.6835984169593" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1022.5210084033614" y1="252.6835984169593" x2="1034.0336134453783" y2="261.0261656746058" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1034.0336134453783" y1="261.0261656746058" x2="1045.546218487395" y2="394.8286290322519" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1045.546218487395" y1="394.8286290322519" x2="1057.0588235294117" y2="256.2639853395008" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1057.0588235294117" y1="256.2639853395008" x2="1068.5714285714284" y2="593.0570489844695" stroke="#d9534f" stroke-width="2" stroke-linecap="round"/>
+<line x1="1068.5714285714284" y1="593.0570489844695" x2="1080.0840336134454" y2="362.78211805554986" stroke="#d9534f" stroke-width="2" stroke-linecap="round"/>
+<line x1="1080.0840336134454" y1="362.78211805554986" x2="1091.5966386554621" y2="205.83893369176076" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1091.5966386554621" y1="205.83893369176076" x2="1103.109243697479" y2="230.33210125448323" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1103.109243697479" y1="230.33210125448323" x2="1114.6218487394958" y2="315.215567129635" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1114.6218487394958" y1="315.215567129635" x2="1126.1344537815125" y2="137.7749775985603" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1126.1344537815125" y1="137.7749775985603" x2="1137.6470588235293" y2="168.50067515431596" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1137.6470588235293" y1="168.50067515431596" x2="1149.1596638655462" y2="131.66638664874432" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1149.1596638655462" y1="131.66638664874432" x2="1160.672268907563" y2="197.29418682795747" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1160.672268907563" y1="197.29418682795747" x2="1172.1848739495797" y2="157.2007702745913" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1172.1848739495797" y1="157.2007702745913" x2="1183.6974789915967" y2="206.78586096176767" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1183.6974789915967" y1="206.78586096176767" x2="1195.2100840336134" y2="345.1663773148214" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1195.2100840336134" y1="345.1663773148214" x2="1206.7226890756303" y2="165.19993279570195" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1206.7226890756303" y1="165.19993279570195" x2="1218.235294117647" y2="157.554976851849" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1218.235294117647" y1="157.554976851849" x2="1229.747899159664" y2="199.41672267025461" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1229.747899159664" y1="199.41672267025461" x2="1241.2605042016808" y2="253.43591323178185" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1241.2605042016808" y1="253.43591323178185" x2="1252.7731092436975" y2="156.28713348765461" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1252.7731092436975" y1="156.28713348765461" x2="1264.2857142857142" y2="126.40344982078989" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1264.2857142857142" y1="126.40344982078989" x2="1275.7983193277312" y2="110.0" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1275.7983193277312" y1="110.0" x2="1287.310924369748" y2="126.08749626642592" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+<line x1="1287.310924369748" y1="126.08749626642592" x2="1298.8235294117646" y2="290.14066233572584" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1298.8235294117646" y1="290.14066233572584" x2="1310.3361344537816" y2="177.63237847222655" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1310.3361344537816" y1="177.63237847222655" x2="1321.8487394957983" y2="215.72356630824663" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1321.8487394957983" y1="215.72356630824663" x2="1333.361344537815" y2="201.7303240740796" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1333.361344537815" y1="201.7303240740796" x2="1344.8739495798318" y2="213.06992980884098" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1344.8739495798318" y1="213.06992980884098" x2="1356.3865546218487" y2="169.68315972222354" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1356.3865546218487" y1="169.68315972222354" x2="1367.8991596638655" y2="266.41801075269007" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1367.8991596638655" y1="266.41801075269007" x2="1379.4117647058824" y2="272.65727673238064" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1379.4117647058824" y1="272.65727673238064" x2="1390.9243697478992" y2="126.29484953703519" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1390.9243697478992" y1="126.29484953703519" x2="1402.4369747899161" y2="275.01456093189745" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1402.4369747899161" y1="275.01456093189745" x2="1413.9495798319329" y2="167.45997299382293" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1413.9495798319329" y1="167.45997299382293" x2="1425.4621848739496" y2="214.7239023297507" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1425.4621848739496" y1="214.7239023297507" x2="1436.9747899159663" y2="206.32756496416027" stroke="#f0ad4e" stroke-width="2" stroke-linecap="round"/>
+<line x1="1436.9747899159663" y1="206.32756496416027" x2="1448.4873949579833" y2="449.2319775132321" stroke="#ec8e2a" stroke-width="2" stroke-linecap="round"/>
+<line x1="1448.4873949579833" y1="449.2319775132321" x2="1460.0" y2="610.0" stroke="#d9534f" stroke-width="2" stroke-linecap="round"/>
+<circle cx="90.0" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Apr 2016: 100.000%</title></circle>
+<circle cx="101.5126050420168" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>May 2016: 100.000%</title></circle>
+<circle cx="113.02521008403362" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jun 2016: 100.000%</title></circle>
+<circle cx="124.53781512605042" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jul 2016: 100.000%</title></circle>
+<circle cx="136.05042016806723" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Aug 2016: 100.000%</title></circle>
+<circle cx="147.56302521008405" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Sep 2016: 100.000%</title></circle>
+<circle cx="159.07563025210084" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Oct 2016: 100.000%</title></circle>
+<circle cx="170.58823529411765" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Nov 2016: 100.000%</title></circle>
+<circle cx="182.10084033613447" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Dec 2016: 100.000%</title></circle>
+<circle cx="193.61344537815125" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jan 2017: 100.000%</title></circle>
+<circle cx="205.12605042016807" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Feb 2017: 100.000%</title></circle>
+<circle cx="216.6386554621849" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Mar 2017: 100.000%</title></circle>
+<circle cx="228.15126050420167" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Apr 2017: 100.000%</title></circle>
+<circle cx="239.6638655462185" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>May 2017: 100.000%</title></circle>
+<circle cx="251.1764705882353" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jun 2017: 100.000%</title></circle>
+<circle cx="262.6890756302521" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jul 2017: 100.000%</title></circle>
+<circle cx="274.20168067226894" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Aug 2017: 100.000%</title></circle>
+<circle cx="285.71428571428567" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Sep 2017: 100.000%</title></circle>
+<circle cx="297.2268907563025" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Oct 2017: 100.000%</title></circle>
+<circle cx="308.73949579831935" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Nov 2017: 100.000%</title></circle>
+<circle cx="320.25210084033614" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Dec 2017: 100.000%</title></circle>
+<circle cx="331.7647058823529" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jan 2018: 100.000%</title></circle>
+<circle cx="343.2773109243698" cy="110.09300595238403" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Feb 2018: 100.000%</title></circle>
+<circle cx="354.78991596638656" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Mar 2018: 100.000%</title></circle>
+<circle cx="366.30252100840335" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Apr 2018: 100.000%</title></circle>
+<circle cx="377.8151260504202" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>May 2018: 100.000%</title></circle>
+<circle cx="389.327731092437" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jun 2018: 100.000%</title></circle>
+<circle cx="400.84033613445376" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jul 2018: 100.000%</title></circle>
+<circle cx="412.3529411764706" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Aug 2018: 100.000%</title></circle>
+<circle cx="423.8655462184874" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Sep 2018: 100.000%</title></circle>
+<circle cx="435.3781512605042" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Oct 2018: 100.000%</title></circle>
+<circle cx="446.890756302521" cy="116.30787037037007" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2018: 99.994%</title></circle>
+<circle cx="458.4033613445378" cy="110.82138590202786" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Dec 2018: 99.999%</title></circle>
+<circle cx="469.91596638655466" cy="113.46755525686416" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jan 2019: 99.997%</title></circle>
+<circle cx="481.4285714285714" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Feb 2019: 100.000%</title></circle>
+<circle cx="492.94117647058823" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Mar 2019: 100.000%</title></circle>
+<circle cx="504.453781512605" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Apr 2019: 100.000%</title></circle>
+<circle cx="515.9663865546219" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>May 2019: 100.000%</title></circle>
+<circle cx="527.4789915966387" cy="114.85628858024612" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Jun 2019: 99.995%</title></circle>
+<circle cx="538.9915966386554" cy="120.58934438470382" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jul 2019: 99.989%</title></circle>
+<circle cx="550.5042016806723" cy="131.2346923536444" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Aug 2019: 99.979%</title></circle>
+<circle cx="562.0168067226891" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Sep 2019: 100.000%</title></circle>
+<circle cx="573.5294117647059" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Oct 2019: 100.000%</title></circle>
+<circle cx="585.0420168067227" cy="138.29861111111055" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2019: 99.972%</title></circle>
+<circle cx="596.5546218487395" cy="171.82935707884636" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2019: 99.938%</title></circle>
+<circle cx="608.0672268907563" cy="115.76136872759703" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jan 2020: 99.994%</title></circle>
+<circle cx="619.5798319327731" cy="315.348020434226" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Feb 2020: 99.795%</title></circle>
+<circle cx="631.0924369747898" cy="148.63967293906694" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Mar 2020: 99.961%</title></circle>
+<circle cx="642.6050420168067" cy="493.44087577160093" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Apr 2020: 99.617%</title></circle>
+<circle cx="654.1176470588235" cy="413.40875149342776" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>May 2020: 99.697%</title></circle>
+<circle cx="665.6302521008404" cy="321.1795910493817" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Jun 2020: 99.789%</title></circle>
+<circle cx="677.1428571428571" cy="306.8073290023907" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jul 2020: 99.803%</title></circle>
+<circle cx="688.655462184874" cy="163.39521729390555" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Aug 2020: 99.947%</title></circle>
+<circle cx="700.1680672268908" cy="163.13126929011864" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Sep 2020: 99.947%</title></circle>
+<circle cx="711.6806722689075" cy="245.13664874551512" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Oct 2020: 99.865%</title></circle>
+<circle cx="723.1932773109244" cy="133.2532793209894" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2020: 99.977%</title></circle>
+<circle cx="734.7058823529412" cy="180.49451164874426" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2020: 99.930%</title></circle>
+<circle cx="746.2184873949581" cy="227.03442353644388" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jan 2021: 99.883%</title></circle>
+<circle cx="757.7310924369748" cy="192.9055059523797" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Feb 2021: 99.917%</title></circle>
+<circle cx="769.2436974789916" cy="287.6508363201866" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Mar 2021: 99.822%</title></circle>
+<circle cx="780.7563025210084" cy="190.7571373456772" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Apr 2021: 99.919%</title></circle>
+<circle cx="792.2689075630251" cy="420.819425776587" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>May 2021: 99.689%</title></circle>
+<circle cx="803.781512605042" cy="208.0844907407351" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jun 2021: 99.902%</title></circle>
+<circle cx="815.2941176470588" cy="122.42159498208161" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jul 2021: 99.988%</title></circle>
+<circle cx="826.8067226890756" cy="240.3170736260516" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Aug 2021: 99.870%</title></circle>
+<circle cx="838.3193277310924" cy="137.89062500000438" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Sep 2021: 99.972%</title></circle>
+<circle cx="849.8319327731093" cy="175.65580197132044" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Oct 2021: 99.934%</title></circle>
+<circle cx="861.344537815126" cy="403.03192515431874" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Nov 2021: 99.707%</title></circle>
+<circle cx="872.8571428571428" cy="146.61374327956761" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2021: 99.963%</title></circle>
+<circle cx="884.3697478991597" cy="193.57694892473506" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jan 2022: 99.916%</title></circle>
+<circle cx="895.8823529411765" cy="172.08560681216773" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Feb 2022: 99.938%</title></circle>
+<circle cx="907.3949579831933" cy="532.4910394265198" r="2.6" fill="#d9534f" stroke="white" stroke-width="0.6"><title>Mar 2022: 99.578%</title></circle>
+<circle cx="918.90756302521" cy="179.28047839506172" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Apr 2022: 99.931%</title></circle>
+<circle cx="930.420168067227" cy="234.82312201314005" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>May 2022: 99.875%</title></circle>
+<circle cx="941.9327731092437" cy="211.2336033950566" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jun 2022: 99.899%</title></circle>
+<circle cx="953.4453781512605" cy="120.54967517921668" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jul 2022: 99.989%</title></circle>
+<circle cx="964.9579831932773" cy="172.82202060932102" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Aug 2022: 99.937%</title></circle>
+<circle cx="976.4705882352941" cy="200.52517361111117" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Sep 2022: 99.909%</title></circle>
+<circle cx="987.9831932773109" cy="216.991114097965" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Oct 2022: 99.893%</title></circle>
+<circle cx="999.4957983193277" cy="176.7558834876569" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2022: 99.933%</title></circle>
+<circle cx="1011.0084033613446" cy="150.46398969533843" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2022: 99.960%</title></circle>
+<circle cx="1022.5210084033614" cy="252.6835984169593" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jan 2023: 99.857%</title></circle>
+<circle cx="1034.0336134453783" cy="261.0261656746058" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Feb 2023: 99.849%</title></circle>
+<circle cx="1045.546218487395" cy="394.8286290322519" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Mar 2023: 99.715%</title></circle>
+<circle cx="1057.0588235294117" cy="256.2639853395008" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Apr 2023: 99.854%</title></circle>
+<circle cx="1068.5714285714284" cy="593.0570489844695" r="2.6" fill="#d9534f" stroke="white" stroke-width="0.6"><title>May 2023: 99.517%</title></circle>
+<circle cx="1080.0840336134454" cy="362.78211805554986" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Jun 2023: 99.747%</title></circle>
+<circle cx="1091.5966386554621" cy="205.83893369176076" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jul 2023: 99.904%</title></circle>
+<circle cx="1103.109243697479" cy="230.33210125448323" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Aug 2023: 99.880%</title></circle>
+<circle cx="1114.6218487394958" cy="315.215567129635" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Sep 2023: 99.795%</title></circle>
+<circle cx="1126.1344537815125" cy="137.7749775985603" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Oct 2023: 99.972%</title></circle>
+<circle cx="1137.6470588235293" cy="168.50067515431596" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2023: 99.941%</title></circle>
+<circle cx="1149.1596638655462" cy="131.66638664874432" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2023: 99.978%</title></circle>
+<circle cx="1160.672268907563" cy="197.29418682795747" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jan 2024: 99.913%</title></circle>
+<circle cx="1172.1848739495797" cy="157.2007702745913" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Feb 2024: 99.953%</title></circle>
+<circle cx="1183.6974789915967" cy="206.78586096176767" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Mar 2024: 99.903%</title></circle>
+<circle cx="1195.2100840336134" cy="345.1663773148214" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Apr 2024: 99.765%</title></circle>
+<circle cx="1206.7226890756303" cy="165.19993279570195" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>May 2024: 99.945%</title></circle>
+<circle cx="1218.235294117647" cy="157.554976851849" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jun 2024: 99.952%</title></circle>
+<circle cx="1229.747899159664" cy="199.41672267025461" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jul 2024: 99.911%</title></circle>
+<circle cx="1241.2605042016808" cy="253.43591323178185" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Aug 2024: 99.857%</title></circle>
+<circle cx="1252.7731092436975" cy="156.28713348765461" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Sep 2024: 99.954%</title></circle>
+<circle cx="1264.2857142857142" cy="126.40344982078989" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Oct 2024: 99.984%</title></circle>
+<circle cx="1275.7983193277312" cy="110.0" r="2.6" fill="#2a9d4a" stroke="white" stroke-width="0.6"><title>Nov 2024: 100.000%</title></circle>
+<circle cx="1287.310924369748" cy="126.08749626642592" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Dec 2024: 99.984%</title></circle>
+<circle cx="1298.8235294117646" cy="290.14066233572584" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jan 2025: 99.820%</title></circle>
+<circle cx="1310.3361344537816" cy="177.63237847222655" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Feb 2025: 99.932%</title></circle>
+<circle cx="1321.8487394957983" cy="215.72356630824663" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Mar 2025: 99.894%</title></circle>
+<circle cx="1333.361344537815" cy="201.7303240740796" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Apr 2025: 99.908%</title></circle>
+<circle cx="1344.8739495798318" cy="213.06992980884098" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>May 2025: 99.897%</title></circle>
+<circle cx="1356.3865546218487" cy="169.68315972222354" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jun 2025: 99.940%</title></circle>
+<circle cx="1367.8991596638655" cy="266.41801075269007" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Jul 2025: 99.844%</title></circle>
+<circle cx="1379.4117647058824" cy="272.65727673238064" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Aug 2025: 99.837%</title></circle>
+<circle cx="1390.9243697478992" cy="126.29484953703519" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Sep 2025: 99.984%</title></circle>
+<circle cx="1402.4369747899161" cy="275.01456093189745" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Oct 2025: 99.835%</title></circle>
+<circle cx="1413.9495798319329" cy="167.45997299382293" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Nov 2025: 99.943%</title></circle>
+<circle cx="1425.4621848739496" cy="214.7239023297507" r="2.6" fill="#f0ad4e" stroke="white" stroke-width="0.6"><title>Dec 2025: 99.895%</title></circle>
+<circle cx="1436.9747899159663" cy="206.32756496416027" r="2.6" fill="#5cb85c" stroke="white" stroke-width="0.6"><title>Jan 2026: 99.904%</title></circle>
+<circle cx="1448.4873949579833" cy="449.2319775132321" r="2.6" fill="#ec8e2a" stroke="white" stroke-width="0.6"><title>Feb 2026: 99.661%</title></circle>
+<circle cx="1460.0" cy="610.0" r="2.6" fill="#d9534f" stroke="white" stroke-width="0.6"><title>Mar 2026: 98.997%</title></circle>
+<text x="90" y="664" fill="#57606a" font-size="11" font-weight="600" letter-spacing="0.5">UPTIME</text>
+<circle cx="166" cy="659" r="5" fill="#2a9d4a"/>
+<text x="176" y="663" fill="#1f2328" font-size="11">100.000%</text>
+<circle cx="264" cy="659" r="5" fill="#5cb85c"/>
+<text x="274" y="663" fill="#1f2328" font-size="11">≥ 99.900%</text>
+<circle cx="370" cy="659" r="5" fill="#f0ad4e"/>
+<text x="380" y="663" fill="#1f2328" font-size="11">≥ 99.800%</text>
+<circle cx="476" cy="659" r="5" fill="#ec8e2a"/>
+<text x="486" y="663" fill="#1f2328" font-size="11">≥ 99.600%</text>
+<circle cx="582" cy="659" r="5" fill="#d9534f"/>
+<text x="592" y="663" fill="#1f2328" font-size="11">&lt; 99.600%</text>
+</svg>
