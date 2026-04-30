@@ -2,7 +2,7 @@
 ![Header](https://svg-banners.vercel.app/api?type=typeWriter&text1=fmt.Println(%22rip,%20Github%22)%20👨‍💻&width=800&height=400)
 --->
 
-
+![./Screenshot 2026-04-30 at 09.38.20.png](https://github.com/ptrkrlsrd/ptrkrlsrd/blob/master/Screenshot%202026-04-30%20at%2009.38.20.png?raw=true)
 
 
 <!--- 🔭 I’m currently working on ...
@@ -54,3 +54,5 @@
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ptrkrlsrd&exclude_repo=voice-cloner,skyscanner,zmuck&hide=vimscript,vim,jupyter&layout=donut)](https://github.com/Pranesh-2005/github-readme-stats)
+
+
