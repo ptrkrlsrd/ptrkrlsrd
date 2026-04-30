@@ -3,7 +3,7 @@
 --->
 
 ![./Screenshot 2026-04-30 at 09.38.20.png](https://github.com/ptrkrlsrd/ptrkrlsrd/blob/master/Screenshot%202026-04-30%20at%2009.38.20.png?raw=true)
-
+<!---![nice](https://raw.githubusercontent.com/ptrkrlsrd/ptrkrlsrd/3020bb898ebdb0d05d1d9418aac25a818319c652/good_job.svg)--->
 
 <!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
